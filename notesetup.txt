@@ -1,0 +1,21 @@
+node -v
+npm -v
+npx create-react-app realtor-react
+npm start
+https://favicon.io/favicon-generator/
+
+npm install -g npm
+npm view react version
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+https://tailwindcss.com/docs/guides/create-react-app
+
+prettier - code formatter
+es7 + react/redux/react-native
+dart low contrast themes
+code spell checker
+
+npm install
+

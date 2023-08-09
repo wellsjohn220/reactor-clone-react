@@ -1,0 +1,16 @@
+E:\React2023\realtor-clone-react>npm i react-router react-router-dom
+
+rfc //enter
+
+https://unsplash.com/s/photos/key                   //get image
+
+https://github.com/tailwindlabs/tailwindcss-forms   //install css form:
+npm install -D @tailwindcss/forms
+
+npm i react-icons
+https://react-icons.github.io/react-icons/
+
+npm i firebase
+
+https://www.npmjs.com/package/react-toastify
+npm i react-toastify
