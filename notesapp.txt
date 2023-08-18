@@ -15,3 +15,7 @@ npm i firebase
 https://www.npmjs.com/package/react-toastify
 npm i react-toastify
 npm install --save react-toastify
+
+https://loading.io/
+
+location api: AIzaSyAwDRuUSL-2gEmppCTPFkziyBqZ76eGnJ4

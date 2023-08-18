@@ -3,6 +3,7 @@ git config --global user.name "wellsjohn"
 git config --global user.email wellsjohn220@gmail.ocm
 git config --list
 git config --global --add safe.directory E:/React2023/realtor-clone-react
+git config --global --add safe.directory G:/reactor-clone-react-mainad
 git status
 
 git init
@@ -18,3 +19,4 @@ git push -u origin main                                 //use bash to push with 
 git config --global user.name wellsjohn220
 
 git remote remove origin
+git push -f origin main
